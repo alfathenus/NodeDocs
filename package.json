@@ -19,7 +19,7 @@
         "documentator"
     ],
     "dependencies" : {
-        "SimpleTokenizer": "git+ssh://git@github.com:alfathenus/SimpleTokenizer-repo.git#v0.9.0"
+        "SimpleTokenizer": "git://github.com/alfathenus/SimpleTokenizer.git#v0.9.0"
     },
     "devDependencies": {
         "nodeunit": ">=0.8.0"
